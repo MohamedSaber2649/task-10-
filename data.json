@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "eyad"
+        },
+        {
+            "id": 2,
+            "name": "marawan mousa"
+        },
+        {
+            "name": "MARAWAN PABLO",
+            "id": "6063724"
+        },
+        {
+            "name": "habiba",
+            "id": "8629054"
+        },
+        {
+            "name": "mahmoud",
+            "id": "867063"
+        }
+    ],
+    "books": [],
+    "orders": [],
+    "authors": [
+        {
+            "id": "2",
+            "name": "Sara Walid",
+            "age": 41
+        },
+        {
+            "id": "4",
+            "name": "Ahmed Ali",
+            "age": 18
+        },
+        {
+            "id": "9653855",
+            "name": "Mostafa Ahmed",
+            "age": 15
+        },
+        {
+            "id": "9590741",
+            "name": "sayed Mohamed",
+            "age": 28
+        },
+        {
+            "id": "833401",
+            "name": "Ahmed Gamal",
+            "age": 21
+        }
+    ]
+}
